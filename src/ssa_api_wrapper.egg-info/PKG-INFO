@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: ssa-api-wrapper
-Version: 0.2.6
+Version: 0.3.5
 Summary: Wrapper for SSA API
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/Phoneguytech75/SSA-API-WRAPPER
 Author: Phoneguytech75
 License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
