@@ -7,4 +7,5 @@ src/ssa_api_wrapper.egg-info/dependency_links.txt
 src/ssa_api_wrapper.egg-info/requires.txt
 src/ssa_api_wrapper.egg-info/top_level.txt
 src/ssa_wrapper/__init__.py
+src/ssa_wrapper/resources.py
 src/ssa_wrapper/site.py

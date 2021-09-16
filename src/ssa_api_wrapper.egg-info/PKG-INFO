@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ssa-api-wrapper
-Version: 0.3.5
+Version: 0.4
 Summary: Wrapper for SSA API
 Home-page: https://github.com/Phoneguytech75/SSA-API-WRAPPER
 Author: Phoneguytech75
@@ -13,5 +13,6 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
-UNKNOWN
+# SSA API WRAPPER
+
 
