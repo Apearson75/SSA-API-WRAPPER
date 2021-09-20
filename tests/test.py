@@ -1,3 +1,3 @@
-from ssa_wrapper import resources
+from ssa_wrapper import ssa_twitter
 
-print(resources.remote())
+print(ssa_twitter.latesttweet())
