@@ -1,3 +1,3 @@
 from ssa_wrapper import ssa_twitter
-
-print(ssa_twitter.latesttweet())
+from pprint import pprint
+pprint(ssa_twitter.latesttweet())
