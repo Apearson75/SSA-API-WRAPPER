@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="ssa-api-wrapper",
-    version="0.6",
+    version="0.6.1",
     author="Phoneguytech75",
     description="Wrapper for SSA API",
     long_description=long_description,
